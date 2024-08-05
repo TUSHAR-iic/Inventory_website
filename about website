@@ -1,0 +1,54 @@
+      ------------ The Dashboard Section--------------
+
+The inventory management system website’s dashboard offers a comprehensive view of essential metrics and functionalities for efficient inventory control.
+
+The Navigation bar :
+The left navigation bar consists of link that will redirect the user to the respective webpage
+My Store: My store option will redirect the user to the sign-in page and after filling the respective credentials the User will redirect to  the myStore webpage from where the User can add the items according to the quantity he required as per the availability of the product and if the product is available it is then assigned to the user by the admin.
+
+Analytics: Analytics section provide analysis about the Active users, available products, the products in  most demand  and the new resource have been added to the inventory using interactive graphs and animation charts and values .
+
+Messages: Message section provide different platforms to the user in order to contact the organisation like E-mail, twitter ,Instagram and  meta.
+
+Users : Users option will redirect the user to the sign-in webpage and  also provide registration option for the new Users
+
+
+
+For users convenience there is also a search bar from where users can  search for the availability of a desired product and can also filter the search result by clicking on the categories 
+User interaction is also facilitated through icons such as a notification bell for updates, and a profile avatar that gives user a quick way to login .
+
+
+Users table 
+The table that show active users on the dashboard and the products they need and either if they are  buying the product then it will be shown in the payment column if they made a payment 
+
+
+
+
+Additionally, Users can also subscribe to newsletters and contact via E-mail and also, access social media platforms, and find resource links for discovering services, company information, and legal policies such as terms and conditions and privacy policy. This dashboard is designed to streamline inventory management processes effectively.
+
+
+-------------------The Registration / Login page Section-----------------------------
+
+The Sign-In Page serves as the gateway for users to access the system. It features a straightforward layout designed for ease of use and security. Key components include:
+User Interface:
+Username Field: A text input area for entering the username.
+Password Field: A input area for entering the password, ensuring privacy by hiding the password .
+Sign-In Button: A button to submit the entered credentials and attempt login.
+Forgot Password Link: An option for users to reset their password if forgotten.
+Sign-Up Link: A link for new users to register if they don’t have an account.
+
+.
+
+The signup/registration page is designed to facilitate the user onboarding process for the application. It typically includes fields for users to enter their personal information, such as:
+Full Name: To personalize the user experience
+Email Address: For account verification and communication
+Post : Post of the User as per in the organisation
+Password: To secure the account, often with requirements for complexity
+
+
+       -------------------MyStore Section--------------------
+ 
+The Mystore page serves as a central hub for users to explore and manage various stores within the platform. It features a user-friendly interface with a clean layout, displaying a comprehensive list of items with relevant product details. The list also contains a dedicated column from where Users can select the quantity of the desired product 
+MyStore is the section  from where the User can add the desired items according to the quantity he required as per the availability of the product and if the product is available it is then assigned to the user by the admin.
+
+
